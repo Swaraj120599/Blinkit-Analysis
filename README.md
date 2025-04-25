@@ -13,8 +13,11 @@ This project utilizes Blinkit’s Order and Operations Dataset, which captures c
 
 # Dataset Files:
 orders.csv – Includes order details like product ID, price, quantity, time of order, fulfillment time, and delivery zone.
+
 customers.csv – Contains customer profiles, order frequency, location, and loyalty status.
+
 inventory.csv – Tracks stock levels, restocking events, and product availability in warehouses.
+
 product_catalog.csv – Metadata for each product including category, brand, pricing, and shelf life.
 
 # Recommendations for Blinkit’s Growth & Optimization:
