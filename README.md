@@ -12,13 +12,13 @@ This project analyzes Blinkit’s operational data across major urban centers in
 This project utilizes Blinkit’s Order and Operations Dataset, which captures customer order histories, delivery metrics, product catalog data, and user engagement patterns. The dataset serves as a foundation to understand real-time demand, inventory logistics, and consumer preferences in a fast-paced delivery environment.
 
 # Dataset Files:
-orders.csv – Includes order details like product ID, price, quantity, time of order, fulfillment time, and delivery zone.
+- **orders.csv–** Includes order details like product ID, price, quantity, time of order, fulfillment time, and delivery zone.
 
-customers.csv – Contains customer profiles, order frequency, location, and loyalty status.
+- **customers.csv –** Contains customer profiles, order frequency, location, and loyalty status.
 
-inventory.csv – Tracks stock levels, restocking events, and product availability in warehouses.
+- **inventory.csv –** Tracks stock levels, restocking events, and product availability in warehouses.
 
-product_catalog.csv – Metadata for each product including category, brand, pricing, and shelf life.
+- **product_catalog.csv –** Metadata for each product including category, brand, pricing, and shelf life.
 
 # Recommendations for Blinkit’s Growth & Optimization:
 #### 1.Invest in Predictive Restocking Models-
